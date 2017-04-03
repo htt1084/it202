@@ -4,6 +4,11 @@
     '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
      `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
     ----------------------------------------------------------------- 
+    
+---
+layout: default
+title: Tung Hoang
+---    
 <div class="blurb">
 	<h1>Hi there, my name is Tung Hoang</h1>
 	<p> Soccer is my passion. I have created a website for soccer enthusiasts using Bootstrap. 
